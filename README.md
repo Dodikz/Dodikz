@@ -1,8 +1,10 @@
 <p align="center">
-  <video width="200" autoplay muted loop playsinline>
-    <source src="https://i.imgflip.com/8qcg6t.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+      <video disableremoteplayback="" muted="" loop="" playsinline="" id="mtm-video" width="894" height="500">
+				<source src="//i.imgflip.com/8qcg6t.mp4" type="video/mp4">
+				<p>Your browser does not support html5 :(. If you believe you received this message
+					in error, please email general@imgflip.com and tell us what browser you're using!</p>
+				<p>Hacker guy coding Blank GIF Template</p>
+			</video>
 </p>
 
 
