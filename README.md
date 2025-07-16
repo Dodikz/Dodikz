@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://i.imgflip.com/8qcg6t.mp4" alt="Sleeping coder meme" width="200">
+  <video width="200" autoplay muted loop playsinline>
+    <source src="https://i.imgflip.com/8qcg6t.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 
