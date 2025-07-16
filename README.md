@@ -1,18 +1,11 @@
 <p align="center">
-      <video disableremoteplayback="" muted="" loop="" playsinline="" id="mtm-video" width="894" height="500">
-				<source src="//i.imgflip.com/8qcg6t.mp4" type="video/mp4">
-				<p>Your browser does not support html5 :(. If you believe you received this message
-					in error, please email general@imgflip.com and tell us what browser you're using!</p>
-				<p>Hacker guy coding Blank GIF Template</p>
-			</video>
+ <img src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/works-doesnt-work.jpg" alt="medium">
 </p>
-
 
 ---
 
-<br>👋Hello I'm Dodik<br>I am a Software Engineering student with a strong dedication to web and backend development. I am always eager to learn new things, explore the latest technologies, and build real-world projects that make a positive impact. To me, technology is not just a tool but a solution to create meaningful innovation.
-
-![](https://github-readme-stats.vercel.app/api?username=Dodikz&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
+<b>👋 Hello, I'm Dodik</b><br>
+I am a Software Engineering student with a strong dedication to web and backend development. I am always eager to learn new things, explore the latest technologies, and build real-world projects that make a positive impact. To me, technology is not just a tool but a solution to create meaningful innovation.
 
 
 ## 💻 Tech Stack & Skills  
@@ -26,3 +19,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![](https://github-readme-stats.vercel.app/api?username=Dodikz&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dodikz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+
