@@ -31,14 +31,10 @@ I am a Software Engineering student with a strong dedication to web and backend 
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dodikz&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e&icon_color=0366d6" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dodikz&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e" height="165" />
-
----
 
 <picture>
-  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dodikz/Dodikz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dodikz/Dodikz/output/pacman-contribution-graph.svg"> -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dodikz/Dodikz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dodikz/Dodikz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dodikz/Dodikz/output/pacman-contribution-graph.svg">
 </picture>
 
